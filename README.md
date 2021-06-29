@@ -20,4 +20,11 @@ Source File WebApp : https://felipweb-minfo.github.io/Form-Choice-Project/
 
 ###########################<br/><br/>
 
+Developer in Manjaro com <2
 
+###########################<br/><br/>
+
+VIEW PROJECT:
+
+- Viewer in Chrome our Project Chrominium in LINUX
+- Tks!
