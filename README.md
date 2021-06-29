@@ -1,17 +1,17 @@
-# Form-Choice-Project
-############################
-# Training Form HTML+CSS+JS
-############################
+# Form-Choice-Project<br/><br/>
+############################<br/><br/>
+# Training Form HTML+CSS+JS<br/><br/>
+############################<br/><br/>
 
-const myProjectForm in progress = 10%
+const myProjectForm in progress = 10%<br/><br/>
 
-############################
+############################<br/><br/>
 
 Name: Felipe Meireles<br/><br/>
-Tech: HTML + CSS + JS
-Start: 28/06/2021
-End: ___/____/2021
+Tech: HTML + CSS + JS<br/><br/>
+Start: 28/06/2021<br/><br/>
+End: ___/____/2021<br/><br/>
 
-###########################
+###########################<br/><br/>
 
 
