@@ -1,9 +1,15 @@
 # Form-Choice-Project<br/><br/>
 ############################<br/><br/>
-# Training Form HTML+CSS+JS<br/><br/>
+
+PROJECT LIVE: 0.1a<br/>
+
+###########################<br/><br/>
+
+# Training Form HTML+CSS+JS<br/>
+
 ############################<br/><br/>
 
-const myProjectForm in progress = 10%<br/><br/>
+const myProjectForm in progress = 10%<br/>
 
 ############################<br/><br/>
 
