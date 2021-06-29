@@ -7,7 +7,7 @@ const myProjectForm in progress = 10%
 
 ############################
 
-Name: Felipe Meireles
+Name: Felipe Meireles <br>
 Tech: HTML + CSS + JS
 Start: 28/06/2021
 End: ___/____/2021
